@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AsmitSingh
+- 👋 Hi, I’m @Amber
 - 👀 I’m interested in building programs based on chemical testers.
 - 🌱 I’m currently learning Surface Chemistry and logic test gates.
 - 💞️ I’m looking to collaborate on ...
